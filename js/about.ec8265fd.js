@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweslemon"]=self["webpackChunkweslemon"]||[]).push([[443],{7381:function(n,e,s){s.r(e),s.d(e,{default:function(){return f}});var u=s(3396);const t={class:"about"},a=(0,u._)("h1",null,"This is an about page",-1),r=[a];function c(n,e){return(0,u.wg)(),(0,u.iD)("div",t,r)}var o=s(89);const i={},l=(0,o.Z)(i,[["render",c]]);var f=l}}]);
+//# sourceMappingURL=about.ec8265fd.js.map
